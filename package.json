@@ -6,7 +6,9 @@
     "sequelize-mysql": "1.7.0-alpha2",
     "socket.io": "0.8.7",
     "jade": "0.34.1",
-    "logfmt": "~0.20.0"
+    "logfmt": "~0.20.0",
+    "sequelize": "~1.7.0-rc6",
+    "pg": "~2.11.1"
   },
   "engines": {
     "node": "0.10.x",
